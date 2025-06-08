@@ -1,0 +1,14 @@
+D:\visual\Practice8\bin\Debug\net7.0\Practice8.exe
+D:\visual\Practice8\bin\Debug\net7.0\Practice8.deps.json
+D:\visual\Practice8\bin\Debug\net7.0\Practice8.runtimeconfig.json
+D:\visual\Practice8\bin\Debug\net7.0\Practice8.dll
+D:\visual\Practice8\bin\Debug\net7.0\Practice8.pdb
+D:\visual\Practice8\obj\Debug\net7.0\Practice8.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\Practice8\obj\Debug\net7.0\Practice8.AssemblyInfoInputs.cache
+D:\visual\Practice8\obj\Debug\net7.0\Practice8.AssemblyInfo.cs
+D:\visual\Practice8\obj\Debug\net7.0\Practice8.csproj.CoreCompileInputs.cache
+D:\visual\Practice8\obj\Debug\net7.0\Practice8.dll
+D:\visual\Practice8\obj\Debug\net7.0\refint\Practice8.dll
+D:\visual\Practice8\obj\Debug\net7.0\Practice8.pdb
+D:\visual\Practice8\obj\Debug\net7.0\Practice8.genruntimeconfig.cache
+D:\visual\Practice8\obj\Debug\net7.0\ref\Practice8.dll
